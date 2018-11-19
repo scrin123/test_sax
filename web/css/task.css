@@ -1,0 +1,16 @@
+.center{
+    text-align: center;
+}
+.left{
+    width: 45%;
+    text-align: left;
+    float: left;
+}
+.right{
+    width: 50%;
+    text-align: right;
+    float: left;
+}
+.table{
+
+}
